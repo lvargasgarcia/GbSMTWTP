@@ -23,8 +23,7 @@ chmod 700 install.sh
 sudo ./install.sh
 
 ```
-Esto moverá los archivos *.h a /usr/local/include/
----
+Esto moverá los archivos *.h a /usr/local/include
 
 ### Funciones principales
 
