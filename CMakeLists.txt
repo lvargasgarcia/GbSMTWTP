@@ -27,5 +27,5 @@ install(EXPORT GbSMTWTPConfig
     DESTINATION lib/cmake/GbSMTWTP
 )
 
-# Instalar los archivos de cabecera
-install(DIRECTORY include/ DESTINATION include)
+# Instalar los archivos de cabecera en /usr/local/include/gb
+install(DIRECTORY include/ DESTINATION include/gb)
